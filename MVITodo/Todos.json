@@ -1,0 +1,58 @@
+[
+  {
+    "details": "Borispol Airport, Kiev",
+    "title": "Meet Daniel",
+    "id": 1,
+    "priority": 1,
+    "category": "Relations",
+    "completed": false
+  },
+  {
+    "id": 2,
+    "title": "Pay Utility Bill",
+    "details": "Must be done before 15 of Jan",
+    "priority": 2,
+    "category": "Home",
+    "completed": true
+  },
+  {
+    "id": 3,
+    "title": "Investigate RIB's Architecture",
+    "details": "Can we use something from there for our projects?",
+    "priority": 3,
+    "category": "Work",
+    "completed": false
+  },
+  {
+    "title": "Pay Internet Provider Bill",
+    "id": 4,
+    "details": "Not later than 17 of Jan",
+    "priority": 2,
+    "category": "Home",
+    "completed": true
+  },
+  {
+    "id": 5,
+    "title": "Buy some icecream",
+    "details": "1 kg min, but 2 is better",
+    "priority": 3,
+    "category": "Supermarket",
+    "completed": false
+  },
+  {
+    "title": "Do something useful",
+    "details": "And really cool",
+    "priority": 2,
+    "category": "Misc",
+    "completed": false,
+    "id": 6
+  },
+  {
+    "id": 7,
+    "title": "Go to the cinema - Dune is coming!",
+    "details": "",
+    "priority": 3,
+    "category": "Entertainment",
+    "completed": true
+  }
+]
